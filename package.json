@@ -105,7 +105,7 @@
     "@rollup/plugin-image": "^3.0.2",
     "@rollup/plugin-replace": "^2.4.1",
     "@rollup/pluginutils": "^5.1.0",
-    "@types/node": "^18.8.3",
+    "@types/node": "^22.10.2",
     "access-sniff": "^3.2.0",
     "autoprefixer": "^10.2.5",
     "bestzip": "^2.2.0",
